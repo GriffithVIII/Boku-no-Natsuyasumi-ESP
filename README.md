@@ -27,8 +27,20 @@ del parche, así como para mostrar tutoriales pertinentes a este.
 5. La ISO parcheada tendrá al final del nombre **_ES.iso**
 
 ## Capturas
+![Captura](/assets/21.png "Image")
+![Captura](/assets/22.png "Image")
+![Captura](/assets/23.png "Image")
+![Captura](/assets/24.png "Image")
+![Captura](/assets/25.png "Image")
+![Captura](/assets/26.png "Image")
+![Captura](/assets/27.png "Image")
+![Captura](/assets/28.png "Image")
+![Captura](/assets/29.png "Image")
+![Captura](/assets/30.png "Image")
+![Captura](/assets/31.png "Image")
+![Captura](/assets/32.png "Image")
 
-## Aspectos
+## Características
 A continuación se listarán los cambios en relación al juego original.
 
 - Guion del juego traducido al 100%
@@ -44,7 +56,7 @@ Debido a que el juego no se desarrolló teniendo en mente una publicación
 en el extranjero, existían limitaciones si se quería implementar
 una traducción completa.
 
-Los siguientes aspectos fueron agregadas mediante modificaciones
+Las siguientes características fueron agregadas mediante modificaciones
 del código del juego en el ejecutable.
 
 - Subtítulos en la televisión
@@ -56,7 +68,12 @@ del código del juego en el ejecutable.
 - Redistribución del tablero en colección de bichos
 - Cajas de texto con orientación horizontal
 
-![This is an alt text.](/archive/Boku%20no%20Natsuyasumi/assets/1.png "This is a sample image.")
+![Tele](/assets/4.png "Image")
+![Sumo bichero](/assets/3.png "Image")
+![Captura](/assets/2.png "Image")
+![Tablero](/assets/1.png "Image")
+![Cinemática](/assets/5.png "Image")
+![Horizontal](/assets/6.png "Image")
 
 ## Créditos
 
