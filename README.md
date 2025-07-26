@@ -57,12 +57,7 @@ del código del juego en el ejecutable.
 - Redistribución del tablero en colección de bichos
 - Cajas de texto con orientación horizontal
 
-![Tele](/assets/4.png)
-![Sumo bichero](/assets/3.png "Image")
-![Captura](/assets/2.png "Image")
-![Tablero](/assets/1.png "Image")
-![Cinemática](/assets/5.png "Image")
-![Horizontal](/assets/6.png "Image")
+<img src="/assets/4.png" width="45%"></img> <img src="/assets/3.png" width="45%"></img> <img src="/assets/2.png" width="45%"></img> <img src="/assets/1.png" width="45%"></img> <img src="/assets/5.png" width="45%"></img> <img src="/assets/6.png" width="45%"></img> 
 
 ## Créditos
 
