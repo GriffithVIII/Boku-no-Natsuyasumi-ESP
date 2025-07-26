@@ -27,7 +27,7 @@ del parche, así como para mostrar tutoriales pertinentes a este.
 5. La ISO parcheada tendrá al final del nombre **_ES.iso**
 
 ## Capturas
-<img src="/assets/21.png "Image"" width="45%"></img> <img src="/assets/22.png "Image"" width="45%"></img> <img src="/assets/23.png "Image"" width="45%"></img> <img src="/assets/24.png "Image"" width="45%"></img> <img src="/assets/25.png "Image"" width="45%"></img> <img src="/assets/26.png "Image"" width="45%"></img> <img src="/assets/27.png "Image"" width="45%"></img> <img src="/assets/28.png "Image"" width="45%"></img> <img src="/assets/29.png "Image"" width="45%"></img> <img src="/assets/30.png "Image"" width="45%"></img> <img src="/assets/31.png "Image"" width="45%"></img> <img src="/assets/32.png "Image"" width="45%"></img> 
+<img src="/assets/21.png" width="45%"></img> <img src="/assets/22.png" width="45%"></img> <img src="/assets/23.png" width="45%"></img> <img src="/assets/24.png" width="45%"></img> <img src="/assets/25.png" width="45%"></img> <img src="/assets/26.png" width="45%"></img> <img src="/assets/27.png" width="45%"></img> <img src="/assets/28.png" width="45%"></img> <img src="/assets/29.png" width="45%"></img> <img src="/assets/30.png" width="45%"></img> <img src="/assets/31.png" width="45%"></img> <img src="/assets/32.png" width="45%"></img>
 
 ## Características
 A continuación se listarán los cambios en relación al juego original.
@@ -57,7 +57,7 @@ del código del juego en el ejecutable.
 - Redistribución del tablero en colección de bichos
 - Cajas de texto con orientación horizontal
 
-![Tele](/assets/4.png "Image")
+![Tele](/assets/4.png)
 ![Sumo bichero](/assets/3.png "Image")
 ![Captura](/assets/2.png "Image")
 ![Tablero](/assets/1.png "Image")
