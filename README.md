@@ -61,24 +61,24 @@ del código del juego en el ejecutable.
 <img src="/assets/4.png" width="45%"></img> <img src="/assets/3.png" width="45%"></img> <img src="/assets/2.png" width="45%"></img> <img src="/assets/1.png" width="45%"></img> <img src="/assets/5.png" width="45%"></img> <img src="/assets/6.png" width="45%"></img> 
 
 ## Créditos
-Romhacking y líder del proyecto
+Romhacking y líder del proyecto  
 GriffithVIII
 
-Traducción
+Traducción  
 Atalavan
 Stogran
 堕落王
 
-Edición gráfica
+Edición gráfica  
 Fox
 IIDucci
 Natividad
 GriffithVIII
 
-Edición de vídeo
+Edición de vídeo  
 IIDucci
 
-Testeo
+Testeo  
 Leeg + 堕落王
 Anita☆
 Almendrita
@@ -89,7 +89,7 @@ Ryuusuke
 dessxericas 
 Ferdom
 
-Agradecimientos:
+Agradecimientos:  
 Comunidad de TraduSquare
 obskyr
 Hilltop
