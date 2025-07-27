@@ -26,7 +26,7 @@ del parche, así como para mostrar tutoriales pertinentes a este.
 5. La ISO parcheada tendrá al final del nombre **_ES.iso**
 
 ## Capturas
-<img src="/assets/21.png" width="45%"></img> <img src="/assets/22.png" width="45%"></img> <img src="/assets/23.png" width="45%"></img> <img src="/assets/24.png" width="45%"></img> <img src="/assets/25.png" width="45%"></img> <img src="/assets/26.png" width="45%"></img> <img src="/assets/27.png" width="45%"></img> <img src="/assets/28.png" width="45%"></img> <img src="/assets/29.png" width="45%"></img> <img src="/assets/30.png" width="45%"></img> <img src="/assets/31.png" width="45%"></img> <img src="/assets/32.png" width="45%"></img>
+<img src="/assets/21.png" width="45%"></img> <img src="/assets/22.png" width="45%"></img> <img src="/assets/23.png" width="45%"></img> <img src="/assets/24.png" width="45%"></img> <img src="/assets/25.png" width="45%"></img> <img src="/assets/26.png" width="45%"></img> <img src="/assets/27.png" width="45%"></img> <img src="/assets/28.png" width="45%"></img> <img src="/assets/29.png" width="45%"></img> <img src="/assets/30.png" width="45%"></img> <img src="/assets/31.png" width="45%"></img> <img src="/assets/32.png" width="45%"></img> <img src="/assets/5.png" width="45%"></img> <img src="/assets/33.png" width="45%"></img> <img src="/assets/34.png" width="45%"></img> <img src="/assets/35.png" width="45%"></img>
 
 ## Características
 A continuación se listarán los cambios en relación con el juego original.
@@ -54,49 +54,48 @@ del código del juego en el ejecutable.
 - Subtítulos de Boku al cazar bichos
 - Subtítulos en los endings
 - Subtítulos en escenas varias
-- Subtítulos en las cinemáticas
 - Redistribución del tablero en colección de bichos
 - Cajas de texto con orientación horizontal
 
-<img src="/assets/4.png" width="45%"></img> <img src="/assets/3.png" width="45%"></img> <img src="/assets/2.png" width="45%"></img> <img src="/assets/1.png" width="45%"></img> <img src="/assets/5.png" width="45%"></img> <img src="/assets/6.png" width="45%"></img> 
+<img src="/assets/4.png" width="45%"></img> <img src="/assets/3.png" width="45%"></img> <img src="/assets/2.png" width="45%"></img> <img src="/assets/1.png" width="45%"></img> <img src="/assets/6.png" width="45%"></img> <img src="/assets/7.png" width="45%"></img> 
 
 ## Créditos
-Romhacking y líder del proyecto  
+**Romhacking y líder del proyecto**  
 GriffithVIII
 
-Traducción  
-Atalavan
-Stogran
+**Traducción**  
+Atalavan  
+Stogran  
 堕落王
 
-Edición gráfica  
-Fox
-IIDucci
-Natividad
+**Edición gráfica**  
+Fox  
+IIDucci  
+Natividad  
 GriffithVIII
 
-Edición de vídeo  
+**Edición de vídeo**  
 IIDucci
 
-Testeo  
-Leeg + 堕落王
-Anita☆
-Almendrita
-Megaflan
-eureka417
-neodjc
-Ryuusuke
-dessxericas 
+**Testeo**  
+Leeg + 堕落王  
+Anita☆  
+Almendrita  
+Megaflan  
+eureka417  
+neodjc  
+Ryuusuke  
+dessxericas   
 Ferdom
 
-Agradecimientos:  
-Comunidad de TraduSquare
-obskyr
-Hilltop
-Megaflan
-堕落王
-Leeg
-Pleonex
-Snake128
-Ortew
+**Agradecimientos:**  
+Comunidad de TraduSquare  
+obskyr  
+Hilltop  
+Megaflan  
+堕落王  
+Leeg  
+Pleonex  
+Snake128  
+Ortew  
 Infrid
