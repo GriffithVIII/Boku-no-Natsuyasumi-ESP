@@ -5,6 +5,8 @@ en español ha concluido.
 Este repositorio será usado para documentar y listar las versiones
 del parche, así como para mostrar tutoriales pertinentes a este.
 
+<img src="/assets/banner.png"></img>
+
 ## Índice
 - [Descargar la traducción](#descargar-la-traducción)
 - [Instrucciones](#instrucciones)
