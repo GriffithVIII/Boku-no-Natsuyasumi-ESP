@@ -16,7 +16,7 @@ del parche, así como para mostrar tutoriales pertinentes a este.
 - [Créditos](#créditos)
 
 ## Descargar la traducción
-* bokuES-v1: [GITHUB](https://tradusquare.es/anunciamos-la-traduccion-de-boku-no-natsuyasumi-portable/)
+* bokuES-v1.0: [GITHUB](https://github.com/GriffithVIII/Boku-no-Natsuyasumi-ESP/releases/download/v1.0/bokuES-v1.0.zip)
 
 ## Instrucciones
 1. Descargar el [zip](#descargar-la-traducción) con el parche
