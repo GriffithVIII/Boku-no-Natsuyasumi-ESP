@@ -18,7 +18,7 @@ Este repositorio será usado para documentar y listar las versiones del parche, 
 * bokuES-v1.0: [GITHUB](https://github.com/GriffithVIII/Boku-no-Natsuyasumi-ESP/releases/download/v1.0/bokuES-v1.0.rar) - [MEDIAFIRE](https://www.mediafire.com/file_premium/tyl468fle31itqm/bokuES-v1.0.rar/file)
 
 ## Instrucciones
-1. Descargar el [zip](#descargar-la-traducción) con el parche.
+1. Descargar el [rar](#descargar-la-traducción) con el parche.
 2. Elegir un método:
     - Abrir la aplicación **Parcheador.exe**.
     - Aplicar el archivo bokuES-v1.0.xdelta de la carpeta **patch** con cualquier otro programa compatible.
